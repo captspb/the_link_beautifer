@@ -1,0 +1,629 @@
+.content-main-contain {
+    width: 816px;
+    float: left;
+}
+
+.lists-sidebar {
+    width: 328px;
+    float: right;
+}
+
+.buy-section-booth {
+    float: left;
+    width: 300px;
+}
+
+.buy-section-meta {
+    float: left;
+    width: 900px;
+    padding-left: 15px;
+}
+
+.buy-section-meta h3 {
+    font-size: 20px;
+    padding: 15px 0;
+    padding-top: 5px;
+}
+
+.time-add-provider {
+    
+    background-color: #f5f5f5;
+    padding-left: 15px;
+    margin-left: 10px;
+}
+
+.time-add-provider p {
+    line-height: 35px;
+}
+
+.buy-section-bold {
+    font-weight:bold;
+    color:#4d4d4d;
+}
+
+
+.show-status-div {
+
+    margin-left: 80px;
+}
+
+.show-status {
+    float: left;
+    height:5px;
+    width: 150px;
+    background-color: #dadada;
+    position: relative;
+    margin:0 2px;
+    float: left;
+}
+
+.status-circle {
+   
+   
+    background-color: #dadada;
+    text-align: center;;
+    color: white;
+    position: absolute;
+    left: 1%;
+    margin-left: -10px;
+    margin-top: -8px;
+    padding:5px 10px;
+
+}
+
+.show-status p {
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.buyitem-header {
+    float: left;
+    margin-top: -5px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.pass {
+    background-color: #f589a2;
+}
+
+.ing {
+    background-color: #c8133c;
+}
+
+.detail-nav {
+    border-bottom: 1px solid #c8133c;
+    padding-bottom: 10px;
+}
+
+.detail-nav li {
+    float: left;
+    color: #c8133c;
+    font-size: 18px;
+    padding:12px 30px;
+    margin-right:20px;
+    cursor: pointer;
+}
+
+
+.detail-nav-actived {
+    background-color: #c8133c !important;
+    color: white!important;
+}
+
+.sidebar-show {
+    padding-bottom: 20px;
+    border-bottom: 1px dashed #dedede;
+}
+
+.siderbar-show-header{
+    text-align: center;
+    font-weight: bold;
+    line-height: 50px;
+    font-size: 16px;
+}
+
+.siderbar-show-pic {
+    float: left;
+    height:200px;
+    width:150px;
+    background-size: cover;
+}
+
+.sidebar-show p {
+    float: left;
+    padding:10px 15px ;
+    color:#8e8e8e;
+    
+}
+
+.link-btn {
+    float: left;
+    padding:5px 10px;
+    background-color: #fe5b78;
+    color:white;
+    margin:10px 30px;
+}
+
+.show-chose {
+    background-color: white;
+    margin: 10px 0;
+    padding: 0 15px;
+    position: relative;
+    min-height: 100px
+}
+
+.changci-selected {
+    border: 1px solid #c8133c;
+    color: #c8133c;
+}
+.changci {
+    float: left;
+    width: 20%;
+    height: 50px;
+    border: 1px solid #c1c1c1;
+    margin: 5px 10px;
+    text-align: center;
+    color: #a5a5a5;
+    line-height: 23px;
+    cursor: pointer;
+}
+
+.piaojia {
+    float: left;
+    width: 20%;
+    height: 40px;
+    border: 1px solid #c1c1c1;
+    margin: 0 10px;
+    text-align: center;
+    color: #a5a5a5;
+    line-height: 40px;
+    margin-bottom: 15px;
+    display: block;
+    cursor: pointer;
+}
+
+.taopiao {
+    float: left;
+    width: 20%;
+    height: 40px;
+    border: 1px solid #c1c1c1;
+    margin: 0 10px;
+    margin-bottom: 15px;
+    text-align: center;
+    color: #7c7c7c;
+    line-height: 40px;
+    z-index: 5;
+}
+
+
+.taopiao-lack {
+    float: left;
+    width: 20%;
+    height: 40px;
+    border:1px dashed #e5b920;
+    margin:0 4px;
+    color: #e5b920;
+    background-color: #f2f2f2;
+    text-align: center;
+    line-height: 20px;
+    padding-top: 5px;
+    margin-bottom: 15px;
+}
+
+.piaojia-finish {
+    float: left;
+    width: 20%;
+    height: 40px;
+    border: 1px dashed #868686;
+    margin: 0 10px;
+    text-align: center;
+    color: #a5a5a5;
+    line-height: 40px;
+    background-color: #f2f2f2;
+    margin-bottom: 15px;
+}
+
+
+.piaojia-lack {
+    float: left;
+    width: 20%;
+    height: 40px;
+    border: 1px dashed #e5b920;
+    margin: 0 10px;
+    color: #e5b920;
+    background-color: #f2f2f2;
+    text-align: center;
+    line-height: 15px;
+    padding-top: 5px;
+    margin-bottom: 15px;
+    cursor: pointer;
+}
+
+
+.counter {
+    padding-top: 10px;
+    float: left;
+    width: 16%;
+    height: 50px;
+    margin: 0 4px;
+    margin-right: 12px;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.counter tr {
+    height: 30px;
+}
+
+.counter table td {
+    border: 1px solid #c5c5c5;
+    cursor: pointer;
+}
+
+
+.counter-jian {
+    padding: 5px 11px;
+    background-color: #f6f6f6;
+}
+
+.counter-jia {
+    padding: 5px 10px;
+    background-color: #f6f6f6;
+}
+
+.counter-jian-one {
+    padding: 5px 11px;
+    background-color: #f6f6f6;
+}
+
+.counter-jia-one {
+    padding: 5px 10px;
+    background-color: #f6f6f6;
+}
+
+
+.dele {
+    float: left;
+    width: 30px;
+    height: 35px;
+    margin-left: 50px;
+    margin-bottom: -5px;
+    background-image: url(../img/dele.png);
+    height: 50px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+
+.counter input {
+    width: 30px;
+    height: 96%;
+    text-align: center;
+    margin-top: 2%;
+    border: none;
+    outline: none;
+}
+
+.cover {
+    width: 100%;
+    height: 2000px;
+    position: fixed;
+    background-color: rgba(0,0,0,.5);
+    z-index: 9;
+}
+
+.tips {
+    text-align: center;
+    width: 300px;
+    position: fixed;
+    background-color: white;
+    left: 50%;
+    margin-left: -150px;
+    top: 300px;
+    z-index: 99;
+}
+
+.tips-cfm {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    background-color: #fe5b78;
+    color: white;
+    text-align: center;
+    margin: 20px;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.tips p {
+    padding: 15px 20px 10px 10px;
+    text-indent: 32px;
+    line-height: 30px;
+}
+
+.changci-selected {
+    border: 1px solid #c8133c;
+    color: #c8133c;
+}
+
+
+.piaojia-selected {
+    
+    background-color:#c8133c;
+    color: white;
+    z-index: 55;
+    border:none;
+   
+}
+
+.select-header {
+    float: left;
+    line-height: 50px;
+    font-weight: bold;
+}
+
+.selected-div {
+    border: 1px solid #d3d3d3;
+    width: 70%;
+    margin:15px 10px;
+    
+    height: 55px;
+}
+
+.small-icon {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-size: cover;
+    margin-right: 8px;
+}
+
+.buy-btn {
+    width:250px;
+    height: 53px;
+    background-color: #fe5b78;
+    text-align: center;
+    line-height: 53px;
+    color: white;
+    font-size: 18px;
+    margin:30px 65px;
+    margin-top: 10px;
+    cursor: pointer;
+
+}
+
+.chose-tip {
+    height:70px;
+    
+    width: 100%;
+    margin-top: 30px;
+    background-color:#f9f9f9;
+}
+
+.chose-tip-left {
+    height: 100%;
+    width: 88px;
+    background-color: #c8133c;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.chose-tip p {
+    color:#8e8e8e;
+    padding: 10px;
+    margin-left: 10px;
+    float: left;
+    width: 86%;
+    line-height: 20px;
+}
+
+
+.banner-header {
+    display: inline-block;
+    height:20px;
+    width: 3px;
+    background-color: #fe5b78;
+    line-height: 
+}
+
+.dot-line {
+    float: left;
+    width: 86%;
+    border-bottom: 1px dotted #dadada;
+    margin-top: 3px;
+}
+
+.banner-text {
+    float: left;
+    margin:0 20px 0 16px;
+    font-size: 18px;
+}
+
+.float-code {
+    
+    border:1px solid #9acd5f;
+    width: 225px;
+    height: 80px;
+    text-align: center;
+    padding-left: 10px;
+    float: right;
+
+}
+
+.float-close {
+    height:24px;
+    width: 24px;
+    background-image: url(../img/fclose.png);
+    float: right;
+    
+}
+
+.float-code p {
+    line-height: 24px;
+
+}
+
+.float-code-img {
+    height: 70px;
+    width: 70px;
+    background-size: cover;
+
+    
+}
+
+.backtop {
+    height: 46px;
+    width: 46px;
+    background-image:url(../img/huidingbu1.jpg);
+    position: absolute;
+    left: 50%;
+    margin-left: 650px;
+    margin-top: -100px;
+
+}
+
+.backtop:hover {
+    height: 46px;
+    width: 46px;
+    background-image:url(../img/huidingbu2.jpg);
+    position: absolute;
+    left: 50%;
+    margin-left: 650px;
+    margin-top: -100px;
+
+}
+
+
+.lack-register {
+    position: absolute;
+    width: 800px;
+    height:645px;
+    background-color: white;
+    z-index: 10;
+    left: 50%;
+    margin-left: -400px;
+    padding-bottom: 15px;
+    top:5px;
+}
+
+.lack-register-header {
+    background-color: #d6d6d6;
+    height: 45px;
+    line-height: 45px;
+    font-size: 16px;
+    font-weight: bold;
+    color:#fe5b78;
+    padding-left: 370px;
+}
+
+.lack-register-close {
+    width: 35px;
+    height: 35px;
+    margin: 5px;
+    background-image: url(../img/close2.png);
+    float: right;
+    background-size: contain;
+    cursor: pointer;
+}
+
+.lack-register-left {
+    float: left;
+    width: 550px;
+    height:600px;
+    
+}
+
+.lack-register-left .tip-p {
+    padding: 20px;
+    text-indent: 32px;
+    line-height: 28px;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+
+.lack-info {
+    height: 130px;
+    width: 500px;
+    background-color: #fff9ea;
+    margin:10px auto;
+    padding:10px;
+    padding-top:5px;
+
+}
+
+.line {
+    padding: 10px;
+    line-height: 20px;
+    
+}
+
+.register-form p {
+    padding: 15px 30px;
+}
+
+.register-form input[type="text"] {
+    height:40px;
+    width: 336px;
+}
+
+.register-form span {
+    display: inline-block;
+    margin:0 20px;
+    
+}
+
+.submit-btn {
+    width: 175px;
+    height: 45px;
+    border:none;
+    background-color: #fe5b78;
+    color:white;
+    margin:10px;
+    font-family: 'Microsoft YaHei', 黑体, 宋体, sans-serif;
+
+}
+
+.lack-register-right {
+    float: left;
+    
+    width: 248px;
+    height: 600px;
+}
+.lack-register-right p {
+    line-height: 30px;
+}
+
+.v-line {
+    height:500px;
+    width: 1px;
+    border-right:1px dashed #cfcece;
+    float: left;
+    margin:50px 0;
+}
+
+.tips-line {
+    background-color: #fff9ea;
+    padding:20px;
+    font-size: 16px;
+    margin-bottom:15px;
+}
+
+.one {
+    display: inline-block;
+    width: 3px;
+    height: 20px;
+    background-color: #fe5b78;
+    color: transparent;
+    margin-right: 8px;
+    line-height: 20px;
+}
+.two {
+    font-size: 18px;
+    font-weight: bold;
+}
